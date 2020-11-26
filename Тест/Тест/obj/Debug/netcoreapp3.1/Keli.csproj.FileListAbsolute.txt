@@ -1,0 +1,13 @@
+C:\Users\Dmitriy\source\repos\Тест\Тест\bin\Debug\netcoreapp3.1\Keli.exe
+C:\Users\Dmitriy\source\repos\Тест\Тест\bin\Debug\netcoreapp3.1\Keli.deps.json
+C:\Users\Dmitriy\source\repos\Тест\Тест\bin\Debug\netcoreapp3.1\Keli.runtimeconfig.json
+C:\Users\Dmitriy\source\repos\Тест\Тест\bin\Debug\netcoreapp3.1\Keli.runtimeconfig.dev.json
+C:\Users\Dmitriy\source\repos\Тест\Тест\bin\Debug\netcoreapp3.1\Keli.dll
+C:\Users\Dmitriy\source\repos\Тест\Тест\bin\Debug\netcoreapp3.1\Keli.pdb
+C:\Users\Dmitriy\source\repos\Тест\Тест\obj\Debug\netcoreapp3.1\Keli.csprojAssemblyReference.cache
+C:\Users\Dmitriy\source\repos\Тест\Тест\obj\Debug\netcoreapp3.1\Keli.AssemblyInfoInputs.cache
+C:\Users\Dmitriy\source\repos\Тест\Тест\obj\Debug\netcoreapp3.1\Keli.AssemblyInfo.cs
+C:\Users\Dmitriy\source\repos\Тест\Тест\obj\Debug\netcoreapp3.1\Keli.csproj.CoreCompileInputs.cache
+C:\Users\Dmitriy\source\repos\Тест\Тест\obj\Debug\netcoreapp3.1\Keli.dll
+C:\Users\Dmitriy\source\repos\Тест\Тест\obj\Debug\netcoreapp3.1\Keli.pdb
+C:\Users\Dmitriy\source\repos\Тест\Тест\obj\Debug\netcoreapp3.1\Keli.genruntimeconfig.cache

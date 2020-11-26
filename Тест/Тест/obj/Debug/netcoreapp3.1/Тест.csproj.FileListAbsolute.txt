@@ -1,0 +1,13 @@
+C:\Users\Dmitriy\source\repos\Тест\Тест\bin\Debug\netcoreapp3.1\Тест.exe
+C:\Users\Dmitriy\source\repos\Тест\Тест\bin\Debug\netcoreapp3.1\Тест.deps.json
+C:\Users\Dmitriy\source\repos\Тест\Тест\bin\Debug\netcoreapp3.1\Тест.runtimeconfig.json
+C:\Users\Dmitriy\source\repos\Тест\Тест\bin\Debug\netcoreapp3.1\Тест.runtimeconfig.dev.json
+C:\Users\Dmitriy\source\repos\Тест\Тест\bin\Debug\netcoreapp3.1\Тест.dll
+C:\Users\Dmitriy\source\repos\Тест\Тест\bin\Debug\netcoreapp3.1\Тест.pdb
+C:\Users\Dmitriy\source\repos\Тест\Тест\obj\Debug\netcoreapp3.1\Тест.csprojAssemblyReference.cache
+C:\Users\Dmitriy\source\repos\Тест\Тест\obj\Debug\netcoreapp3.1\Тест.AssemblyInfoInputs.cache
+C:\Users\Dmitriy\source\repos\Тест\Тест\obj\Debug\netcoreapp3.1\Тест.AssemblyInfo.cs
+C:\Users\Dmitriy\source\repos\Тест\Тест\obj\Debug\netcoreapp3.1\Тест.csproj.CoreCompileInputs.cache
+C:\Users\Dmitriy\source\repos\Тест\Тест\obj\Debug\netcoreapp3.1\Тест.dll
+C:\Users\Dmitriy\source\repos\Тест\Тест\obj\Debug\netcoreapp3.1\Тест.pdb
+C:\Users\Dmitriy\source\repos\Тест\Тест\obj\Debug\netcoreapp3.1\Тест.genruntimeconfig.cache
